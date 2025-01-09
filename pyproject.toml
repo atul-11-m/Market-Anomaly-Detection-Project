@@ -7,6 +7,11 @@ authors = ["Your Name <you@example.com>"]
 [tool.poetry.dependencies]
 python = ">=3.10.0,<3.11"
 streamlit = "^1.27.2"
+numpy = "^2.2.1"
+openai = "^1.59.5"
+pandas = "^2.2.3"
+pyarrow = "^18.1.0"
+scikit-learn = "^1.6.0"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
